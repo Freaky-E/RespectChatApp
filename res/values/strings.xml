@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RespectChat</string>
+    <string name="need_a_new_account">Need a new account ?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="display_name">Display name</string>
+    <string name="log_out">Log Out</string>
+    <string name="hey_welcome_to_respect_chat_where_dreams_come_true">Hey ! Welcome to Respect Chat, where dreams come true</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="please_login_below">Please login below</string>
+    <string name="log_in">Log in</string>
+    <string name="all_users">All Users</string>
+    <string name="account_settings">Account Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_status">New status</string>
+    <string name="apply_changes">Apply Changes</string>
+</resources>
